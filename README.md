@@ -6,7 +6,7 @@ In this research project we undertake the task of finding such sequence biases u
 For more information, link to our final presentation: https://bit.ly/2Y2a4L4
 
 ## Requirements
-Project is done in Python 3 environment.
+Project is done in Python 3 environment. The training was done on a NVIDIA Quadro M2000 GPU with 32GB RAM.
 
 Open Source Libraries used - 
 1. Keras - https://github.com/keras-team/keras
