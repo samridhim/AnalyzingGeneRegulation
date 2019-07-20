@@ -39,4 +39,4 @@ Open Source Libraries used -
 
 4. Model info (accuracy, probability scores) will be available in `ENCFF*.bed.csv` files
 
-5. To view on DeepLift change the model and the h5 file names accordingly
+5. To view on DeepLift change the model and the h5 file names accordingly in the `DeepLift_Latest.ipynb` file
