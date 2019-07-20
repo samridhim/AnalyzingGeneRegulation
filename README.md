@@ -25,7 +25,7 @@ Open Source Libraries used -
 
 3. `DeepBind_Control.py` - This file is the heart of the project. This is where the training & testing logic is embedded. We have used Keras to train the model. 
 
-4. `DeepLift_Latest.ipynb` - DeepLift is a tool which allows computation and visualisation of important scores of bases within DNA sequences that are trained with the help of deep neural networks. 
+4. `DeepLift_Latest.ipynb` - DeepLift is a tool developed by Kundaje Lab (https://www.github.com/kundajelab) which does computation and visualisation of important scores of bases within DNA sequences that are trained with the help of deep neural networks. 
 
 5. `Creating_Class0.py` - Helper class which enables us to create the control sequences, i.e. the sequences which become the negative set throughout the training process. 
 
