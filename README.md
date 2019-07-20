@@ -1,7 +1,7 @@
 ## Project Description
 The influence of genomic sequence on patterns of histone modification associated with gene expression and chromatin programming is called sequence bias, and it suggests that the mechanisms responsible for global histone modifications may interpret genomic sequence in various ways. 
 
-In this project we undertake the task of finding such sequence biases using Deep Learning. Specifically, we model a Convolutional Neural Network to detect patterns in DNA Sequences which are underlying certain Histone Modifications. 
+In this research project we undertake the task of finding such sequence biases using Deep Learning. Specifically, we train a Convolutional Neural Network to detect patterns in DNA Sequences which are underlying certain histone marks. 
 
 For more information, link to our final presentation: https://bit.ly/2Y2a4L4
 
